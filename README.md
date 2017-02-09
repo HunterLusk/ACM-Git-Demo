@@ -1,5 +1,5 @@
 # ACM-Git-Demo
-5 ripe bananas
+5 old bananas
 1 oragnes 
 10 flour tortillas 
 2 cartons of whole milk
